@@ -19,7 +19,7 @@ Using a Puzzle game where the core gameplay is based on connecting adjacent diam
 A hero is on a mission to rescue villagers that were held captive by the monster (mosquito) by eliminating mosquitoes in each map. Each rescued villager will help improve the condition of the map with their expertise such as, the carpenter will help renovate the house to prevent mosquito.
 
 ### Art Direction and Character Design 
-The Monsters 
+#### The Monsters 
 The monster will start as a larva and evolve into adult mosquito by the higher level the game progresses. These monsters are designed to look realistic yet scary enough to make the player aware of its danger as shown in the pictures below. 
 ![](/pics/monster.png?raw=true "")
 
@@ -31,9 +31,39 @@ The monster will start as a larva and evolve into adult mosquito by the higher l
 
 ![](/pics/game1.png?raw=true "")
 
-The Diamonds 
+##### The Diamonds 
 There are six types of diamonds; each has its special action to combat against the monster (Mosquito).  
-![](http://www.sakngoi.com/wp-content/uploads/diamonds.png "diamonds")
+![](/pics/diamonds.png?raw=true "diamonds")
+
+![](/pics/hospital.png?raw=true "")
+A cutscene will show up when the player collects enough diamonds to perform the ultimate attack. These ultimate attacks are designed to reinforce actions to prevent, eliminate and treat malaria by using a direct and easy-to-understand message with a voice over. 
+
+#### The Hero
+Our hero is a young adventurous male villager, living in Cambodia. The Hero will show his illness through the facial expression, according to the symptoms of a Malaria infected patients to make the player become aware of the signs. 
+![](/pics/sick.png?raw=true "")
+
+Other than the Hero, there are 4 more characters in the game, which are the Carpenter, Tent Maker, Candle Maker, and the Volunteer. Each of them will contribute to the game once the player makes progress by winning over the Mosquito (monster)  
+ 
+Carpenter: Help renovate the village to protect from the mosquitos. 
+Tent Maker: Help make tents for the villager to sleep in at night. 
+Candle Maker: Help make scented candles that repel the mosquitos. 
+Volunteer: Help distribute medicines to the villagers. 
+![](/pics/villager.png?raw=true "")
+
+#### The Maps 
+There are five maps throughout the game, five stages in each map, in total of 25 levels for the player to complete. Each map represents the environmental conditions that facilitate the presence of malaria such as, humid forest/cave, bushes and stagnant water. When the player conquer a map, the game will unlock items that will help keep the player safe from malaria. 
+![](/pics/maps.png?raw=true "")
+
+![](/pics/house.png?raw=true "")
+
+
+
+ 
+ 
+
+
+
+
 
 
  
