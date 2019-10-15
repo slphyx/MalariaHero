@@ -21,15 +21,15 @@ A hero is on a mission to rescue villagers that were held captive by the monster
 ### Art Direction and Character Design 
 The Monsters 
 The monster will start as a larva and evolve into adult mosquito by the higher level the game progresses. These monsters are designed to look realistic yet scary enough to make the player aware of its danger as shown in the pictures below. 
-![](http://www.sakngoi.com/wp-content/uploads/monster.png "")
+![](/pics/monster.png?raw=true "")
 
-![](http://www.sakngoi.com/wp-content/uploads/monsterbody.png "")
+![](/pics/monsterbody.png?raw=true "")
 
-![](http://www.sakngoi.com/wp-content/uploads/mos1.png "")
+![](/pics/mos1.png?raw=true "")
 
-![](http://www.sakngoi.com/wp-content/uploads/mos2.png "")
+![](/pics/mos2.png?raw=true "")
 
-![](http://www.sakngoi.com/wp-content/uploads/game1.png "")
+![](/pics/game1.png?raw=true "")
 
 The Diamonds 
 There are six types of diamonds; each has its special action to combat against the monster (Mosquito).  
