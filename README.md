@@ -3,6 +3,7 @@ A simple mobile game for supporting malaria elimination project
 
 [Download](https://1drv.ms/u/s!AjSk65t7m_UYiPBS2_bFSTOpVQdrfw?e=srTtej)
 
+This game project is supported by Mahidol Oxford Tropical Medicine Research Unit Network “Public Engagement Bursaries”
 
 ## Introduction 
 Malaria is a serious and sometimes fatal disease caused by a parasite that commonly infects a certain type of mosquito which feeds on humans. About 212 million people are infected with malaria each year. Although malaria can be a deadly disease, illness and death from malaria can usually be prevented. The prevention approaches include: being aware of the risk, preventing bites, taking antimalarial tablets, and seek immediate diagnosis when the symptom occurs.  
