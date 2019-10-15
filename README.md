@@ -56,14 +56,11 @@ There are five maps throughout the game, five stages in each map, in total of 25
 
 ![](/pics/house.png?raw=true "")
 
+#### The Game Interfaces 
+The game interface is separated into three sections 1) The Monster section that shows the HP bar and a countdown timer for the  next attack 2) The Diamond (game board) section that the player will interact with the  game. 3) The Hero section shows the status of the player through facial expression  and their infected blood vessel. 
+![](/pics/flow.png?raw=true "")
+![](/pics/interfaces2?raw=true "")
 
+In order to make sure the player understand the game, a short how-to play narrative with a moving hand gesture will be displayed at the start of the game to let new players be able to learn and understand how to play the game faster. 
+![](/pics/how2play.png?raw=true "")
 
- 
- 
-
-
-
-
-
-
- 
