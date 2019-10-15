@@ -18,3 +18,7 @@ Using a Puzzle game where the core gameplay is based on connecting adjacent diam
 ### Storyline
 A hero is on a mission to rescue villagers that were held captive by the monster (mosquito) by eliminating mosquitoes in each map. Each rescued villager will help improve the condition of the map with their expertise such as, the carpenter will help renovate the house to prevent mosquito.
 
+### Art Direction and Character Design 
+The Monsters 
+The monster will start as a larva and evolve into adult mosquito by the higher level the game progresses. These monsters are designed to look realistic yet scary enough to make the player aware of its danger as shown in the pictures below. 
+![](http://www.sakngoi.com/wp-content/uploads/monster.png "")
