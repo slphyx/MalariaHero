@@ -52,6 +52,7 @@ Volunteer: Help distribute medicines to the villagers.
 
 #### The Maps 
 There are five maps throughout the game, five stages in each map, in total of 25 levels for the player to complete. Each map represents the environmental conditions that facilitate the presence of malaria such as, humid forest/cave, bushes and stagnant water. When the player conquer a map, the game will unlock items that will help keep the player safe from malaria. 
+
 ![](/pics/maps.png?raw=true "")
 
 ![](/pics/house.png?raw=true "")
