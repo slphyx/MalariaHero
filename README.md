@@ -1,7 +1,7 @@
 # MalariaHero
 A simple mobile game for supporting malaria elimination project
 
-[Download](https://1drv.ms/u/s!AjSk65t7m_UYiPBS2_bFSTOpVQdrfw?e=srTtej)
+[Download](https://1drv.ms/u/s!AjSk65t7m_UYiPBS2_bFSTOpVQdrfw?e=BJHnHq) 
 
 This game project is supported by Mahidol Oxford Tropical Medicine Research Unit Network “Public Engagement Bursaries”.
 
